@@ -16,10 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Orion Astropreneur Space Academy (Hong Kong)
+  * Assemble a Tiny Ground Station of CubeSat
+  * Prepare class materials for primary high school students taking this course
 
 * Fall 2015: Research Assistant
   * Github University
