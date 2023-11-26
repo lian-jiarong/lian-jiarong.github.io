@@ -25,7 +25,7 @@ Work experience
 * Summer 2022: Research Assistant
   * the Hong Kong Polytechnic University
   * Duties included: Develop remote control system of a ROS vehicle for autonomous vehicles research
-  * Supervisor: Dr Hailong HUANG (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
+  * Supervisor: [Dr Hailong HUANG](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/) (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
   
 Skills
 ======
