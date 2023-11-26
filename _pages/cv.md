@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-* BENG in Aviation Engineering, the Hong Kong Polytechnic University, 2025 (Expected)
+* BENG in Aviation Engineering, the Hong Kong Polytechnic University, 09.2021-06.2025 (Expected)
+* Exchange student at University of Florida, 01.2023-05.2023
 
 
 Work experience
 ======
-* Summer 2023: Orion Astropreneur Space Academy (Hong Kong)
-  * Assemble a Tiny Ground Station of CubeSat
-  * Prepare class materials for primary high school students taking this course
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Assistant
+  * the Hong Kong Polytechnic University
+  * Duties included: Build 3D map for 3D mapping aided GNSS research
+  * Supervisor: Dr Guohao ZHANG (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
+    
+* Summer 2022: Research Assistant
+  * the Hong Kong Polytechnic University
+  * Duties included: Develop remote control system of a ROS vehicle for autonomous vehicles research
+  * Supervisor: Dr Hailong HUANG (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
   
 Skills
 ======
