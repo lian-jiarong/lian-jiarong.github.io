@@ -18,12 +18,12 @@ Education
 Work experience
 ======
 * Summer 2023: Research Assistant
-  * the Hong Kong Polytechnic University
+  * The Hong Kong Polytechnic University
   * Duties included: Build 3D map for 3D mapping aided GNSS research
   * Supervisor: [Dr Guohao ZHANG](https://www.polyu.edu.hk/aae/people/academic-staff/dr-zhang-guohao/) (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
     
 * Summer 2022: Research Assistant
-  * the Hong Kong Polytechnic University
+  * The Hong Kong Polytechnic University
   * Duties included: Develop remote control system of a ROS vehicle for autonomous vehicles research
   * Supervisor: [Dr Hailong HUANG](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/) (Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University)
   
