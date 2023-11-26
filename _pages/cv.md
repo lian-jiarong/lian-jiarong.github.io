@@ -42,11 +42,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*Dean's Honours List 2021/2022
+*Hong Kong Government Scholarship Fund - Reaching Out Award
+*Wong Tit-shing Student Exchange Scholarship
+*Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
   
 Teaching
 ======
