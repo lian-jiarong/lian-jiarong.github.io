@@ -49,12 +49,7 @@ Awards
 * Wong Tit-shing Student Exchange Scholarship
 * Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Ambassador in PolyU Info Day 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University
+* Student Ambassador in AAE Orientation 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University
