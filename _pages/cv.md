@@ -44,12 +44,12 @@ Publications
   
 Awards
 ======
-* Dean's Honours List 2021/2022
-* Hong Kong Government Scholarship Fund - Reaching Out Award
+* [Dean's Honours List 2021/2022](https://drive.google.com/file/d/1GnigrRSm68uTRGIea0Fm_VMem_i_6be5/view?usp=sharing)
+* [Hong Kong Government Scholarship Fund - Reaching Out Award](https://drive.google.com/file/d/183zn8Ykk0tL1ZBnPN3Z8eV2tDLzcUWAf/view?usp=sharing)
 * [Wong Tit-shing Student Exchange Scholarship](https://drive.google.com/file/d/1J3-ws4V3QFx1L_a2lKVp29xjHGZHl9wi/view?usp=drive_link)
-* Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
+* [Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship](https://drive.google.com/file/d/128tlRWWSDR8yIdBIyaftURTFS5YyUu1N/view?usp=drive_link)
   
 Service and leadership
 ======
-* Student Ambassador in PolyU Info Day 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University
-* Student Ambassador in AAE Orientation 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University
+* [Student Ambassador in PolyU Info Day 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University](https://drive.google.com/file/d/1TyCihx5IdrGVEZSPyVG8TtxeGvIR0Cy4/view?usp=drive_link)
+* [Student Ambassador in AAE Orientation 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University](https://drive.google.com/file/d/18B5VvJyD4x9-bzodQkxemaO0UALXozSX/view?usp=drive_link)
