@@ -46,7 +46,7 @@ Awards
 ======
 * Dean's Honours List 2021/2022
 * Hong Kong Government Scholarship Fund - Reaching Out Award
-* Wong Tit-shing Student Exchange Scholarship
+* [Wong Tit-shing Student Exchange Scholarship](https://drive.google.com/file/d/1J3-ws4V3QFx1L_a2lKVp29xjHGZHl9wi/view?usp=drive_link)
 * Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
   
 Service and leadership
