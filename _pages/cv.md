@@ -44,10 +44,10 @@ Publications
   
 Awards
 ======
-*Dean's Honours List 2021/2022
-*Hong Kong Government Scholarship Fund - Reaching Out Award
-*Wong Tit-shing Student Exchange Scholarship
-*Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
+* Dean's Honours List 2021/2022
+* Hong Kong Government Scholarship Fund - Reaching Out Award
+* Wong Tit-shing Student Exchange Scholarship
+* Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship
   
 Teaching
 ======
