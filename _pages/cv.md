@@ -54,3 +54,5 @@ Service and leadership
 ======
 * Student Ambassador in PolyU Info Day 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University [Here](https://drive.google.com/file/d/1TyCihx5IdrGVEZSPyVG8TtxeGvIR0Cy4/view?usp=drive_link)
 * Student Ambassador in AAE Orientation 2023, Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University [Here](https://drive.google.com/file/d/18B5VvJyD4x9-bzodQkxemaO0UALXozSX/view?usp=drive_link)
+* Cambridge University Griton College Summer Program [Here](https://drive.google.com/file/d/15oUVL4glOxZhq7oTyuPtNOf8se9Pg_2z/view?usp=drive_link)
+* Peking University College of Engineering Julsemester GlobeX Exchange Program (Wanren Program funded) [Here] 
