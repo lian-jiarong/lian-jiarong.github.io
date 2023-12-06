@@ -36,7 +36,7 @@ Skills
 Awards
 ======
 * Dean's Honours List 2021/2022 [Here](https://drive.google.com/file/d/1GnigrRSm68uTRGIea0Fm_VMem_i_6be5/view?usp=sharing)
-* Hong Kong Government Scholarship Fund - Reaching Out Award] [Here](https://drive.google.com/file/d/183zn8Ykk0tL1ZBnPN3Z8eV2tDLzcUWAf/view?usp=sharing)
+* Hong Kong Government Scholarship Fund - Reaching Out Award [Here](https://drive.google.com/file/d/183zn8Ykk0tL1ZBnPN3Z8eV2tDLzcUWAf/view?usp=sharing)
 * Wong Tit-shing Student Exchange Scholarship [Here](https://drive.google.com/file/d/1J3-ws4V3QFx1L_a2lKVp29xjHGZHl9wi/view?usp=drive_link)
 * Dr Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship [Here](https://drive.google.com/file/d/128tlRWWSDR8yIdBIyaftURTFS5YyUu1N/view?usp=drive_link)
   
