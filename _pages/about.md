@@ -1,4 +1,3 @@
-![gif1](https://github.com/lian-jiarong/lian-jiarong.github.io/assets/90884384/14979986-1de1-44c9-ac2d-9bf1ddd73510)---
 permalink: /
 title: "About Jiarong :D"
 excerpt: "About me"
