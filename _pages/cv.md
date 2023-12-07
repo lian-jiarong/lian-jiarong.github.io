@@ -12,8 +12,10 @@ redirect_from:
 
 Education
 ======
-* BENG in Aviation Engineering, the Hong Kong Polytechnic University, 09.2021-06.2025 (Expected)
-* Exchange student at University of Florida, 01.2023-05.2023
+* BENG in Aviation Engineering, the Hong Kong Polytechnic University
+  09.2021-06.2025 (Expected)
+* Exchange student at University of Florida
+  01.2023-05.2023
 
 
 Work experience
