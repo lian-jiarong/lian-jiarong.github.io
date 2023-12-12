@@ -13,3 +13,4 @@ Pursuing my studies in the Asia’s global city - Hong Kong, I have gained profo
 
 Cultural Diversity 
 ====== 
+![](../images/gif2.gif)
