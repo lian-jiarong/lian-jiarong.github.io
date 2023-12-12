@@ -13,4 +13,5 @@ Pursuing my studies in the Asia’s global city - Hong Kong, I have gained profo
 
 Cultural Diversity 
 ====== 
+I was born and raised in Wuhan, a normal city located at the central China. As a native Chinses, I'm very familiar with Chinese society, especially its education system. After finishing my high school study, I went to Hong Kong for my undergraduate study at the Hong Kong Polytechnic University. In my second year of undergraduate study, I went to United States of America for semester exchange at University of Folrida. Life and society in China, Hong Kong and United States have a huge difference with its pros and cons, which gives me a thorough understanding about the meaning and importance of diversity. Having open mind to diversity is to help ourselves to step out of our comfort zone and expolre new ideas, which is important to ba future researcher.
 ![](../images/gif2.gif)
