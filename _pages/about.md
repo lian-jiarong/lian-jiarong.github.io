@@ -15,9 +15,9 @@ I am an undergraduate student at the Department of Aeronautical and Aviation Eng
 
 I am working on a project titled "Improving Urban GNSS Positioning by Realistic Measurement Simulation from Digital Twins", hope I can have a publication soon.
 
-![](../images/gif1.gif)
+I am also working on a LLM Agent project with my friends.
 
-I am also practising badminton. You can find me as a badminton partner :)
+![](../images/gif1.gif)
 
 Important Dates
 ======
