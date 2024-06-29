@@ -22,4 +22,11 @@ Important Dates
 
 Page Visitors Records
 ======
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ng3WPvSCmikdN1duWfsgFHJQG8UkcSzdTkdRcBeKM8Q&cl=ffffff&w=a"></script width = "300">
+#clustrmaps-widget {
+    width: 500px;
+    height: 300px;
+}
+<div id="clustrmaps-widget">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ng3WPvSCmikdN1duWfsgFHJQG8UkcSzdTkdRcBeKM8Q&cl=ffffff&w=a"></script>
+</div>
+
