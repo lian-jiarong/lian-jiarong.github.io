@@ -11,10 +11,10 @@ redirect_from:
 
 Hello! I am Jiarong, welcome to my homepage.
 
-I am an undergraduate student at the Department of Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University. I am currently doing undergraduate research supervised by [Dr Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/) and [Dr Guohao ZHANG](https://www.polyu.edu.hk/aae/people/academic-staff/dr-zhang-guohao/). My research interests are Navigation, Positioning, 3DMA GNSS, and Sensor Fusion. I also want to try some related areas like Autonomous Driving and Robotic inspired by [Dr Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/).
+I am currently an undergraduate student in the Department of Aeronautical and Aviation Engineering at The Hong Kong Polytechnic University, where I conduct undergraduate research under the supervision of [Prof Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/) and [Dr Guohao ZHANG](https://www.polyu.edu.hk/aae/people/academic-staff/dr-zhang-guohao/). My research interests include navigation, positioning, 3DMA GNSS, and sensor fusion. I am also keen to explore related fields such as autonomous driving and robotics, inspired by [Prof Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/).
 
+Starting this Fall, I will join The Chinese University of Hong Kong, Shenzhen as a PhD student in Computer Science, supervised by Prof Ruizhi Chen.
 
-<img src="../images/gif1.gif" width="300" />
 
 Important Dates
 ======
